@@ -104,7 +104,7 @@ Visit [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ## 🙌 Made By
 
-Taha | Computer Science Engineering (CSE)  
+GAYATRI KAKADE | Computer Science Engineering (CSE)  
 Guided by: [White-box Cartoonization - Wang et al., CVPR 2020]
 
 ---
